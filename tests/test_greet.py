@@ -4,7 +4,7 @@ from tds_hello_vignesh import greet
 
 
 def test_default():
-    assert greet() == "Hello, world! — from tds-hello v0.1.2"
+    assert greet() == "Hello, world! — from tds-hello v0.2.0"
 
 
 def test_custom_name():
