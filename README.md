@@ -1,11 +1,11 @@
-# tds-hello-YOURNAME
+# tds-hello-vignesh
 
 A tiny Python greeter, published as part of **Tools in Data Science** at IIT Madras (May 2026).
 
 ## Install
 
 ```bash
-pip install tds-hello-YOURNAME
+pip install tds-hello-vignesh
 
 ```
 
